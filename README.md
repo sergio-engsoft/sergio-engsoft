@@ -7,7 +7,7 @@
 
 ## 🛠️ Tecnologias que uso com frequência
 
-- **Automação:** Java, JUnit 5, Cypress, Selenium WebDriver, RestAssured  
+- **Automação:** Java, JavaScript, JUnit 5, Cypress, Selenium WebDriver, RestAssured  
 - **APIs:** Postman, Swagger, JSON  
 - **CI/CD:** GitHub Actions, Maven  
 - **Boas práticas:** POM, BDD (Gherkin), Clean Code  

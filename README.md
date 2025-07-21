@@ -24,7 +24,7 @@
   Automação de interface com Java, Selenium e JUnit.
 
 - 🔹 [**Lojinha API**](https://github.com/sergio-engsoft/LojinhaAPIAutomacao)  
-  Testes de API REST com Javae  RestAssured.
+  Testes de API REST com Java e RestAssured.
 
 ---
 

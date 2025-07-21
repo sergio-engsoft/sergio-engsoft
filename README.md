@@ -18,13 +18,13 @@
 ## 📌 Projetos em Destaque
 
 - 🔹 [**Swag Labs Automação**](https://github.com/sergio-engsoft/SwagLabsAutomacao)  
-  Testes E2E com Cypress simulando fluxo de compra completo.
+  Testes E2E com JavaScript e Cypress simulando fluxo de compra completo.
 
 - 🔹 [**Lojinha Web**](https://github.com/sergio-engsoft/lojinhaWebAutomacao)  
   Automação de interface com Java, Selenium e JUnit.
 
 - 🔹 [**Lojinha API**](https://github.com/sergio-engsoft/LojinhaAPIAutomacao)  
-  Testes de API REST com Java, RestAssured e integração com GitHub Actions.
+  Testes de API REST com Javae  RestAssured.
 
 ---
 

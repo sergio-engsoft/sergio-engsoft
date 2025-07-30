@@ -18,6 +18,7 @@ Busco constantemente aprender e evoluir com novas tecnologias, sempre contribuin
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/RestAssured-16A085?style=for-the-badge&logo=rest-assured&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -34,13 +35,13 @@ Busco constantemente aprender e evoluir com novas tecnologias, sempre contribuin
 ## 📂 Projetos em Destaque
 
 ### 🧪 [Swag Labs com Cypress](https://github.com/sergio-engsoft/swaglabs-cypress)
-Automação E2E do site Swag Labs com Cypress. Projeto estruturado com Gherkin (BDD), execução de testes em CI via GitHub Actions e documentação clara dos cenários.
-
-### 📦 [Lojinha API Automação](https://github.com/sergio-engsoft/LojinhaAPIAutomacao)
-Automação de testes de API REST com Java, JUnit 5, RestAssured e Maven. Estrutura modular com Data Factory e validação de endpoints baseada em Swagger. Integração contínua com GitHub Actions (sem CD).
+Automação E2E do site Swag Labs com JavaScript e Cypress. Projeto estruturado com Gherkin (BDD), execução de testes em CI/CD via GitHub Actions e documentação clara dos cenários.
 
 ### 🛒 [Lojinha Web Automação](https://github.com/sergio-engsoft/lojinhaWebAutomacao)
 Automação de testes de interface web com Java, Selenium WebDriver, JUnit 5 e Maven. Estrutura baseada em POM, testes cross-browser, geração de relatórios com Allure e pipeline CI/CD configurado com GitHub Actions.
+
+### 📦 [Lojinha API Automação](https://github.com/sergio-engsoft/LojinhaAPIAutomacao)
+Automação de testes de API REST com Java, JUnit 5, RestAssured e Maven. Estrutura modular com Data Factory e validação de endpoints baseada em Swagger. Integração contínua com GitHub Actions.
 
 ---
 
@@ -55,5 +56,6 @@ Automação de testes de interface web com Java, Selenium WebDriver, JUnit 5 e M
 ## 📫 Contato
 
 - 📧 Email: sergiodossantossoares@hotmail.com  
+- 📱 Telefone: (92) 99346-6037  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergio-dos-santos-soares)  
 - 💻 [GitHub](https://github.com/sergio-engsoft)

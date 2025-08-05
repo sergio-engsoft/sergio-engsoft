@@ -34,7 +34,7 @@ Busco constantemente aprender e evoluir com novas tecnologias, sempre contribuin
 
 ## 📂 Projetos em Destaque
 
-### 🧪 [Swag Labs com Cypress](https://github.com/sergio-engsoft/swaglabs-cypress)
+### 🧪 [Swag Labs com Cypress](https://github.com/sergio-engsoft/SwagLabsAutomacao)
 Automação E2E do site Swag Labs com JavaScript e Cypress. Projeto estruturado com Gherkin (BDD), execução de testes em CI/CD via GitHub Actions e documentação clara dos cenários.
 
 ### 🛒 [Lojinha Web Automação](https://github.com/sergio-engsoft/lojinhaWebAutomacao)
